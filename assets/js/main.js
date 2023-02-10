@@ -253,9 +253,13 @@
     })
   });
 
+  //버튼2를누르면
+
+
   /**
    * Initiate Pure Counter 
    */
   new PureCounter();
+
 
 })()
